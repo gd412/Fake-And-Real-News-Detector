@@ -1,0 +1,5 @@
+# Install required packages
+!pip install vaderSentiment
+!pip install gradio
+# Install required packages
+!pip install pandas nltk scikit-learn joblib vaderSentiment gradio seaborn matplotlib
